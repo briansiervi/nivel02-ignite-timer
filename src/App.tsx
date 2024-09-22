@@ -9,7 +9,7 @@ import isPropValid from '@emotion/is-prop-valid'
 export function App() {
   return (
     <ThemeProvider theme={defaultTheme}>
-      <BrowserRouter>
+      <BrowserRouter basename="/nivel02-ignite-timer">
         <CyclesContextProvider>
           <StyleSheetManager shouldForwardProp={isPropValid}>
             <Router />

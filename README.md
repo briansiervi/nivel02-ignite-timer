@@ -12,3 +12,4 @@ Através de sua criação foi possível praticar os hooks "useState", "useEffect
 ## Material de apoio
 
 - [Deploy no github pages](https://www.youtube.com/watch?v=-weTjP3pYxs&t=427s&ab_channel=MatheusBattisti-HoradeCodar)
+- [Vite Deploy + Router ](https://www.youtube.com/watch?v=uStf2HMXcAs&ab_channel=VladyslavDihtiarenko)
